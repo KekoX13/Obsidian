@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "33d6d945b8b7c658",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d73a66a13e99a3",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7eabaadb423a6b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "392f78f7c6324e46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "487ee883b75fc574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "519fd7d7095310da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Troubleshooting",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270,
+    "collapsed": true
+  },
+  "right": {
+    "id": "459cc7d94487eb40",
+    "type": "split",
+    "children": [
+      {
+        "id": "acb94771eabc25f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a50fc56f932715",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "40d73a66a13e99a3",
+  "lastOpenFiles": [
+    "Programming/Rust/The Rust Programming Language.md",
+    "README/README.md",
+    "Programming/Programming.md",
+    "Programming/Rust/Chapter 15/15.4. Rc, the Reference Counted Smart Pointer.md",
+    "1. Getting Started.md",
+    "Programming/Rust/Introduction/Introduction.md",
+    "Programming/Rust/Foreword/Foreword.md",
+    "SipHash.md",
+    "[SipHash.md",
+    "Programming/Rust/Chapter 21/21.7.  G - How Rust is Made and “Nightly Rust”.md"
+  ]
+}
