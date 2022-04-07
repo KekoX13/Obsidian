@@ -1,5 +1,5 @@
 # Loops
-[[JavaScript]]
+
 ---
 
 ### The for statement

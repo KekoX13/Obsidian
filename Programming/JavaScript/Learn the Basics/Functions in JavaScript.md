@@ -1,5 +1,5 @@
 # Functions
-[[JavaScript]]
+
 ---
 
 Functions are code blocks that can have arguments, and function have their own scope. In JavaScript, functions are a very important feature of the program, and especially the fact that they can access local variables of a parent function (this is called a closure).

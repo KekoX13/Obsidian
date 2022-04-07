@@ -1,5 +1,5 @@
 # Data Structures
-[[JavaScript]]
+
 ---
 
 This section does not exist yet.

@@ -1,5 +1,5 @@
 # Arrays
-[[JavaScript]]
+
 ---
 
 JavaScript can hold an array of variables in an Array object. In JavaScript, an array also functions as a list, a stack or a queue.

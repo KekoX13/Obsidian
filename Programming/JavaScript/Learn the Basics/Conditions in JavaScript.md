@@ -1,5 +1,5 @@
 # Conditions
-[[JavaScript]]
+
 ---
 
 ### The `if` statement

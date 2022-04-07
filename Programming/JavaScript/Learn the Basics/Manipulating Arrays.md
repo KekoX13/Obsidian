@@ -1,5 +1,5 @@
 # Manipulating Arrays
-[[JavaScript]]
+
 ---
 
 ### Pushing and popping

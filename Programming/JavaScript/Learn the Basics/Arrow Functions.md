@@ -1,5 +1,5 @@
 # Arrow Functions
-[[JavaScript]]
+
 ---
 
 Arrow functions are a feature of ES6, their behavior are generally the same of a function. These are anonymous functions with a special syntax, they haven't their own this, arguments or super. They can't be used as constructors too.

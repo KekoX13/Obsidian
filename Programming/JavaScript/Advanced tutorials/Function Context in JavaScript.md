@@ -1,5 +1,5 @@
 # Function Context
-[[JavaScript]]
+
 ---
 
 Functions in JavaScript run in a specific context, and using the `this` variable we have access to it.

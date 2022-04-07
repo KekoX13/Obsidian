@@ -1,5 +1,5 @@
 # Object Oriented JavaScript
-[[JavaScript]]
+
 ---
 
 JavaScript uses functions as classes to create objects using the `new` keyword. Here is an example:

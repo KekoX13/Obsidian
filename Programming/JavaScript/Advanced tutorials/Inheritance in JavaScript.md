@@ -1,5 +1,5 @@
 # Inheritance
-[[JavaScript]]
+
 ---
 
 JavaScript uses prototype based inheritance. Every object has a `prototype`, and when a method of the object is called then JavaScript tries to find the right function to execute from the prototype object.

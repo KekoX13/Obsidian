@@ -1,15 +1,15 @@
-# [The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language)
+# The Rust Programming Language
 
 _by Steve Klabnik and Carol Nichols, with contributions from the Rust Community_
 
-This version of the text assumes you’re using Rust 1.57 (released 2021-12-02) or later. See the [["Installation”]] section of Chapter 1 to install or update Rust.
+This version of the text assumes you’re using Rust 1.57 (released 2021-12-02) or later. See the [[1.1. Installation]] section of Chapter 1 to install or update Rust.
 
 The HTML format is available online at [https://doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/) and offline with installations of Rust made with `rustup`; run `rustup docs --book` to open.
 
 This text is available in [paperback and ebook format from No Starch Press](https://nostarch.com/rust).
 
--  [[Foreword]]
--  [[Introduction]]
+-  [[Programming/Rust/Foreword/Foreword]]
+-  [[Rust Introduction]]
 - [[1. Getting Started]]
 	-  1.  [[1.1. Installation]]
 	-  2.  [[1.2. Hello, World!]]

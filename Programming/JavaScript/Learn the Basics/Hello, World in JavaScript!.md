@@ -1,5 +1,5 @@
 # Hello, World!
-[[JavaScript]]
+
 ---
 
 Welcome to the first tutorial. In this tutorial you will learn how to write your first line of code.

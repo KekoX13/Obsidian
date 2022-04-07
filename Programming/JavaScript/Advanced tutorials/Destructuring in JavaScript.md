@@ -1,5 +1,5 @@
 # Destructuring
-[[JavaScript]]
+
 ---
 
 Destructuring is a feature of ES6, introduced for making easier and cleaner repetitive operations and assignments made in JS.

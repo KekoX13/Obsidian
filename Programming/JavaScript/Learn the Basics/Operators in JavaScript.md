@@ -1,5 +1,5 @@
 # Operators in JavaScript
-[[JavaScript]]
+
 ---
 
 Every variable in JavaScript is casted automatically so any operator between two variables will always give some kind of result.

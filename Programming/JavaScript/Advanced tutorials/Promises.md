@@ -1,5 +1,5 @@
 # Promises
-[[JavaScript]]
+
 ---
 
 Promises are the basics of asynchronous programming in JavaScript, and are very important to master.

@@ -1,5 +1,5 @@
 # Async and Await
-[[JavaScript]]
+
 ---
 
 The `async` and `await` keywords in JavaScript are used to make asynchronous programming easy, by introducing something called **coroutines**. A coroutine is a function which can pause its execution and return control to the main loop until some event occurs. It is an alternative approach for using callback functions, which makes it easier to write, understand and maintain.
