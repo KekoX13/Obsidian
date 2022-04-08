@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "40d73a66a13e99a3",
+        "id": "9e627f19d0781288",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40d73a66a13e99a3",
+  "active": "9e627f19d0781288",
   "lastOpenFiles": [
-    "Programming/PHP/Learn the Basics/Exceptions.md",
-    "Programming/PHP/PHP.md",
-    "Programming/PHP/Learn the Basics/Objects.md",
-    "Programming/PHP/Learn the Basics/PHP Functions.md",
-    "Programming/PHP/Learn the Basics/PHP While loops.md",
-    "Programming/PHP/Learn the Basics/PHP For loops.md",
-    "Programming/PHP/Learn the Basics/PHP Strings.md",
-    "Programming/PHP/Learn the Basics/PHP Multidimensional arrays.md",
-    "Programming/PHP/Learn the Basics/Arrays with keys.md",
-    "Programming/PHP/Learn the Basics/Simple arrays.md"
+    "Operating Systems/POSIX/POSIX.md",
+    "Religion/Christianity/Christianity.md",
+    "Religion/Catholic/Catholic.md",
+    "Religion/Buddhism/Buddhism.md",
+    "Operating Systems/Archlinux/Archlinux.md",
+    "Pen Testing/Pen Testing.md",
+    "Languages/Languages.md",
+    "README.md",
+    "Docs/Docs.md",
+    "History/History.md"
   ]
 }

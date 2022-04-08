@@ -1,0 +1,19 @@
+# Pandoc User’s Guide
+-   [Synopsis](https://pandoc.org/MANUAL.html#synopsis)
+-   [Description](https://pandoc.org/MANUAL.html#description)▸
+-   [Options](https://pandoc.org/MANUAL.html#options)▸
+-   [Exit codes](https://pandoc.org/MANUAL.html#exit-codes)
+-   [Defaults files](https://pandoc.org/MANUAL.html#defaults-files)▸
+-   [Templates](https://pandoc.org/MANUAL.html#templates)▸
+-   [Extensions](https://pandoc.org/MANUAL.html#extensions)▸
+-   [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown)▸
+-   [Citations](https://pandoc.org/MANUAL.html#citations)▸
+-   [Slide shows](https://pandoc.org/MANUAL.html#slide-shows)▸
+-   [EPUBs](https://pandoc.org/MANUAL.html#epubs)▸
+-   [Jupyter notebooks](https://pandoc.org/MANUAL.html#jupyter-notebooks)
+-   [Syntax highlighting](https://pandoc.org/MANUAL.html#syntax-highlighting)
+-   [Custom Styles](https://pandoc.org/MANUAL.html#custom-styles)▸
+-   [Custom readers and writers](https://pandoc.org/MANUAL.html#custom-readers-and-writers)
+-   [Reproducible builds](https://pandoc.org/MANUAL.html#reproducible-builds)
+-   [A note on security](https://pandoc.org/MANUAL.html#a-note-on-security)
+-   [Authors](https://pandoc.org/MANUAL.html#authors)

@@ -10,6 +10,7 @@ notes I have taken.
 
 - [[Biology]]
 - [[Chemistry]]
+- [[Docs]]
 - [[History]]
 - [[Languages]]
 - [[Math]]
@@ -19,4 +20,5 @@ notes I have taken.
 - [[Programming]]
 - [[Religion]]
 - [[Survival]]
+- [[Youtube]]
 
