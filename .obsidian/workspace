@@ -7,12 +7,8 @@
         "id": "40d73a66a13e99a3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Operating Systems/LFS/LFS.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/LFS/LFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "40d73a66a13e99a3",
   "lastOpenFiles": [
-    "Operating Systems/LFS/LFS.md",
-    "Operating Systems/LFS/IV. Building the LFS System/Chapter 10/10.2. Creating the/etc/10.2 fstab File.md",
-    "Operating Systems/LFS/IV. Building the LFS System/Chapter 9/9.8. Creating the_/etc/9.8. Inputrc File.md",
-    "Operating Systems/LFS/IV. Building the LFS System/Chapter 9/9.9. Creating the_/etc/9.9. Shells File.md",
-    "Programming/HTML & CSS/HTML & CSS.md",
-    "Programming/Rust/Chapter 21/21.3. C - Derivable Traits.md",
-    "Operating Systems/LFS/IV. Building the LFS System/Chapter 8/8.5. Glibc-2.35.md",
-    "Programming/JavaScript/JavaScript.md",
-    "Programming/Go/Go.md",
-    "Operating Systems/Operating Systems.md"
+    "Programming/PHP/Learn the Basics/Exceptions.md",
+    "Programming/PHP/PHP.md",
+    "Programming/PHP/Learn the Basics/Objects.md",
+    "Programming/PHP/Learn the Basics/PHP Functions.md",
+    "Programming/PHP/Learn the Basics/PHP While loops.md",
+    "Programming/PHP/Learn the Basics/PHP For loops.md",
+    "Programming/PHP/Learn the Basics/PHP Strings.md",
+    "Programming/PHP/Learn the Basics/PHP Multidimensional arrays.md",
+    "Programming/PHP/Learn the Basics/Arrays with keys.md",
+    "Programming/PHP/Learn the Basics/Simple arrays.md"
   ]
 }

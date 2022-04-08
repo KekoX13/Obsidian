@@ -10,7 +10,7 @@ There is no need to download anything - Just click on the chapter you wish to be
 
 -   [[Hello World in Ruby]]
 -   [[Comments]]
--   [[Variables and Types]]
+-   [[Ruby Variables and Types]]
 -   [[Math in Ruby]]
 -   [[Strings]]
 -   [[Programming/Ruby/Learn the Basics/Arrays]]

@@ -21,6 +21,7 @@ Here you will find a heirarchy of  information and studying paths to learn from.
 - [[Kotlin]]
 - [[Objective-C]]
 - [[Ocaml]]
+- [[Perl]]
 - [[PHP]]
 - [[Python]]
 - [[R]]
@@ -28,6 +29,7 @@ Here you will find a heirarchy of  information and studying paths to learn from.
 - [[The Rust Programming Language]]
 - [[Scala]]
 - [[Shell]]
+- [[SQL]]
 - [[Swift]]
 
 ## Github

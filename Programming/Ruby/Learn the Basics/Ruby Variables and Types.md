@@ -1,4 +1,4 @@
-# Variables and Types
+# Ruby Variables and Types
 [[Ruby]]
 ---
 
@@ -21,5 +21,4 @@ There are three main types of variable:
 -   Strings (a collection of symbols inside speech marks)
 -   Booleans (true or false)
 -   Numbers (numeric values)
-    
-    aString = "I'm a string!" aBoolean = true aNumber = 42
+	    aString = "I'm a string!" aBoolean = true aNumber = 42
