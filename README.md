@@ -1,4 +1,5 @@
 # README
+[[README]]
 ## Archsinner's Vault
 Here you will find my Obsidian Vault with a whole bunch of good notes pertaining
 to many of my interests. I hope this helps someone and will be adding content to
@@ -10,14 +11,10 @@ notes I have taken.
 
 - [[Biology]]
 - [[Chemistry]]
-- [[Docs]]
 - [[History]]
 - [[Languages]]
 - [[Math]]
-- [[README]]
-- [[Operating Systems]]
-- [[Pen Testing]]
-- [[Programming]]
+- [[Computer Science]]
 - [[Religion]]
 - [[Survival]]
 - [[Youtube]]

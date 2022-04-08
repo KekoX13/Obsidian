@@ -1,6 +1,6 @@
 # Christianity
-## Contents
 [[Religion]]
+## Contents
 -   [1Etymology](https://en.wikipedia.org/wiki/Christianity#Etymology)
 -   [2Beliefs](https://en.wikipedia.org/wiki/Christianity#Beliefs)
     -   [2.1Creeds](https://en.wikipedia.org/wiki/Christianity#Creeds)

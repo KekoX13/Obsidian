@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e627f19d0781288",
+        "id": "c90d17a1f26b6565",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/Programming/Elixir/Elixir.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Programming/Elixir/Elixir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e627f19d0781288",
+  "active": "c90d17a1f26b6565",
   "lastOpenFiles": [
-    "Operating Systems/POSIX/POSIX.md",
-    "Religion/Christianity/Christianity.md",
-    "Religion/Catholic/Catholic.md",
-    "Religion/Buddhism/Buddhism.md",
-    "Operating Systems/Archlinux/Archlinux.md",
-    "Pen Testing/Pen Testing.md",
-    "Languages/Languages.md",
-    "README.md",
-    "Docs/Docs.md",
-    "History/History.md"
+    "Computer Science/Programming/Elixir/Elixir.md",
+    "Computer Science/Operating Systems/Linux/Archlinux/Archlinux.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Programming/Programming.md",
+    "Computer Science/Programming/Scala/Learn the Basics/Scala Methods.md",
+    "Computer Science/Programming/Scala/Scala.md",
+    "Computer Science/Programming/Scala/Learn the Basics/Scala Conditional Statements.md",
+    "Computer Science/Programming/Scala/Learn the Basics/Scala Arrays.md",
+    "Computer Science/Programming/Scala/Learn the Basics/Scala Strings.md",
+    "Computer Science/Programming/Scala/Learn the Basics/Hello, World in Scala!.md"
   ]
 }
