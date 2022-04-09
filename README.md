@@ -1,5 +1,4 @@
 # README
-[[README]]
 ## Archsinner's Vault
 Here you will find my Obsidian Vault with a whole bunch of good notes pertaining
 to many of my interests. I hope this helps someone and will be adding content to
@@ -8,7 +7,7 @@ would like you can see my videos demostrating myself creating all these notes an
 giving the organization I think is good. Please refer to the Main file in graph view
 which will be the Main connection to all other files. Below is the Index to all of the 
 notes I have taken. 
-
+# Table of Contents
 - [[Biology]]
 - [[Chemistry]]
 - [[History]]

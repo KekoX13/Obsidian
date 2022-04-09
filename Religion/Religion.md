@@ -1,5 +1,5 @@
 # Religions
-
+[[README]]
 ## Contents
 - [[Buddhism]]
 - [[Catholic]]

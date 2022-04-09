@@ -1,13 +1,12 @@
 # Welcome
-[[README]]
+[[Computer Science]]
 Here you will find a heirarchy of  information and studying paths to learn from. Everything included in this programming archive is listed down below under learn programming. Just click the link to the path you would like to learn and tree out from there, hope it clicks well.
-
-
 ## Learn Programming
 - [[Arduino]]
 - [[Assembly]]
 - [[C]]
 - [[CSharp]]
+- [[Elixir]]
 - [[C++]]
 - [[Clojure]]
 - [[Cobol]]

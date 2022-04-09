@@ -1,7 +1,7 @@
   
-
+# Chemistry
+[[README]]
 ## Contents
-
 -   [1Chemistry Etymology](https://en.wikipedia.org/wiki/Chemistry#Etymology)
 -   [2Modern principles](https://en.wikipedia.org/wiki/Chemistry#Modern_principles)
     -   [2.1Matter](https://en.wikipedia.org/wiki/Chemistry#Matter)

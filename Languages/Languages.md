@@ -1,6 +1,6 @@
 # Good Basis to Languages
+[[README]]
 ## Contents
-
 -   [1Definitions](https://en.wikipedia.org/wiki/Language#Definitions)
     -   [1.1Mental faculty, organ or instinct](https://en.wikipedia.org/wiki/Language#Mental_faculty,_organ_or_instinct)
     -   [1.2Formal symbolic system](https://en.wikipedia.org/wiki/Language#Formal_symbolic_system)

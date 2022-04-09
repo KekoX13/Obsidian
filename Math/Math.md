@@ -1,6 +1,6 @@
 # Mathematics
+[[README]]
 ## Contents
-
 -   [1Areas of mathematics](https://en.wikipedia.org/wiki/Mathematics#Areas_of_mathematics)
     -   [1.1Number theory](https://en.wikipedia.org/wiki/Mathematics#Number_theory)
     -   [1.2Geometry](https://en.wikipedia.org/wiki/Mathematics#Geometry)
