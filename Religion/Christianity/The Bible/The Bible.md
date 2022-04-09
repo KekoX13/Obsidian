@@ -1,6 +1,5 @@
 # The Bible
 [[Christianity]]
-
 ## Content
 **Pentateuch (or the Law)**
 	* [[Genesis]]

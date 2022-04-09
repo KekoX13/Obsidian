@@ -19,7 +19,7 @@
     "type": "split",
     "children": [
       {
-        "id": "392f78f7c6324e46",
+        "id": "b85315d96f26b327",
         "type": "tabs",
         "children": [
           {
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270
+    "width": 270,
+    "collapsed": true
   },
   "right": {
     "id": "459cc7d94487eb40",
@@ -84,15 +85,15 @@
   },
   "active": "c90d17a1f26b6565",
   "lastOpenFiles": [
-    "Religion/Christianity/The Bible/The Bible.md",
-    "Religion/Christianity/The Bible/Scripture/66 - Revelation/Revelation.md",
-    "Religion/Christianity/Christianity.md",
-    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Gen-01.md",
-    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
-    "Religion/Christianity/Bible Study/000 Home.md",
-    "Religion/Christianity/Bible Study/040 Productivity MOC.md",
-    "Religion/Christianity/Bible Study/Financial Policy.md",
-    "Religion/Christianity/Bible Study/Glossary.md",
-    "Religion/Christianity/Bible Study/Release Notes.md"
+    "Computer Science/Operating Systems/Linux/LFS/LFS.md",
+    "Computer Science/Operating Systems/Linux/LFS/I. Introduction/Chapter 1. Introduction/1. Introduction/How to Build an LFS System.md",
+    "Computer Science/Operating Systems/Linux/LFS/II. Preparing for the Build/Chapter 2. Preparing the Host System/Chapter 2 Introduction.md",
+    "Religion/Christianity/The Bible/Scripture/40 - Matthew/Matthew.md",
+    "Religion/Christianity/The Bible/Scripture/40 - Matthew/Matt-01.md",
+    "Religion/Christianity/The Bible/Scripture/40 - Matthew/Matt-02.md",
+    "Religion/Christianity/The Bible/Scripture/40 - Matthew/Matt-03.md",
+    "Religion/Christianity/The Bible/Scripture/40 - Matthew/Matt-04.md",
+    "Computer Science/Programming/Elixir/Elixir.md",
+    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md"
   ]
 }
