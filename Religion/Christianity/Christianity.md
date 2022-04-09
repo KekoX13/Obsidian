@@ -54,7 +54,4 @@
     -   [13.1Bibliography](https://en.wikipedia.org/wiki/Christianity#Bibliography)
 -   [14Further reading](https://en.wikipedia.org/wiki/Christianity#Further_reading)
 -   [15External links](https://en.wikipedia.org/wiki/Christianity#External_links)
-
-
-# Great Way to Learn the Word of God
-- [[Bible Study]]
+-   [[The Bible]]
