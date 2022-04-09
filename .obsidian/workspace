@@ -7,12 +7,8 @@
         "id": "c90d17a1f26b6565",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Science/Operating Systems/Windows/PowerShell/PowerShell.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating Systems/Windows/PowerShell/PowerShell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "c90d17a1f26b6565",
   "lastOpenFiles": [
+    "Religion/Christianity/Bible Study/About me.md",
+    "Religion/Christianity/Bible Study/The Bible.md",
+    "Religion/Christianity/Bible Study/+Overview.md",
+    "Religion/Christianity/Bible Study/Glossary.md",
+    "Religion/Christianity/Bible Study/CSS tweaks.md",
+    "Religion/Christianity/Christianity.md",
+    "Religion/Christianity/Bible Study/+Start here.md",
+    "Religion/Christianity/Bible Study/What is the Gospel.md",
     "Computer Science/Operating Systems/Windows/PowerShell/PowerShell.md",
-    "Computer Science/Operating Systems/Windows/Windows.md",
-    "README.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Programming/Programming.md",
-    "Religion/Religion.md",
-    "Math/Math.md",
-    "Languages/Languages.md",
-    "History/History.md",
-    "Chemistry/Chemistry.md"
+    "Computer Science/Operating Systems/Windows/Windows.md"
   ]
 }
